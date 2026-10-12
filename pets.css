@@ -1,0 +1,29 @@
+html {
+    background-color: rgb(222, 193, 48);
+    color: aliceblue;
+    font-family: "Archivo Black", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+ul {
+    margin: 0;
+}
+
+
+.nav-color{
+    background-color:burlywood;
+    padding: 10px;
+
+}
+
+.dog-color{
+    background-color: rgba(134, 74, 0, 0.86);
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.socials{
+    padding: 10px;
+}
