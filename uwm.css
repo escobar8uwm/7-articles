@@ -1,0 +1,62 @@
+html {
+    background-color: azure;
+    line-height: 24px;
+}
+
+
+.subheading {
+    font-size: 16px;
+    line-height: 0px;
+}
+
+.headerstyle{
+    background-color: rgb(246, 149, 255);
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.wrapper{
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.site-main{
+    background-color: rgb(253, 255, 127);
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+
+.aside-site{
+    background-color: rgb(218, 141, 218);
+    font-style: italic;
+    color: blueviolet;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.footer-site{
+    background-color: aquamarine;
+    padding: 20px;
+}
+
+.academics-style{
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: rgb(234, 158, 87);
+
+}
+
+.research-style{
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: rgb(234, 158, 87);
+
+}
+
+.entre-style{
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: rgb(234, 158, 87);
+
+}
